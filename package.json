@@ -1,0 +1,14 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint objects.js"
+  },
+  "author": "Sahil",
+  "license": "ISC",
+  "dependencies": {
+    "jshint": "^2.11.0"
+  }
+}
